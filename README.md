@@ -1,2 +1,2 @@
-# Daily-Tasks
+# Magic Notes
 Here you can write your daily notes.
